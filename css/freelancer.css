@@ -76,7 +76,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #830F00;
+	background:#830F00 url("../img/bright_squares.png");
 }
 
 header .container {
